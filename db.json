@@ -7,6 +7,15 @@
       "matricula" : "456767"
     }
   ],
+    "clientes":[
+    {
+      "id" : 0,
+      "nome": "paulo",
+      "sexo" : "m",
+      "rg" : "45676709",
+      "data_nasc" : "01/01/2001"
+    }
+  ],
   "comments" : [
     {
       "id": 0,
