@@ -16,6 +16,16 @@
       "data_nasc" : "01/01/2001"
     }
   ],
+   "professor" :[
+    {
+      "id" : 0 ,
+      "nome" : " Henning " ,
+      "sexo" : " m " ,
+      "rg" : " 45676709 " ,
+      "disc_plina" : "Front-End",
+      "data_nasc" : " 01/01/2001 "
+    }
+  ],
   "comments" : [
     {
       "id": 0,
