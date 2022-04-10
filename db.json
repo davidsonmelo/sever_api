@@ -16,7 +16,7 @@
       "data_nasc" : "01/01/2001"
     }
   ],
-   "professor" :[
+   "professores" :[
     {
       "id" : 0 ,
       "nome" : " Henning " ,
